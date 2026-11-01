@@ -13,7 +13,7 @@ class Declarad < Formula
   end
 
   def install
-    bin.install "declarad/declarad"
+    bin.install "declarad"
   end
 
   test do
